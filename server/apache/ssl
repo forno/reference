@@ -1,2 +1,2 @@
-SSLProtocol TLSv3
+SSLProtocol all -SSLv3 -TLSv1 -TLSv1.1
 SSLCipherSuite HIGH:!aNULL:!MD5
